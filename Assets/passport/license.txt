@@ -1,0 +1,8 @@
+Model Information:
+* title:	passport
+* source:	https://sketchfab.com/3d-models/passport-7d00e6d2825a40bcb4add0bc3da9a25a
+* author:	Cyber king (https://sketchfab.com/alkaboos468)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
